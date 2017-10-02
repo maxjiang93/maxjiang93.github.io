@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Max Chiyu Jiang # add your name
+author: "Max" Chiyu Jiang # add your name
 author-pic: max-face.jpg
 about-author: My name is Max Jiang. I'm a third year PhD student at UC Berkeley. My research interest is in Machine Learning, AI, and its applications to fluid related physics.
 
