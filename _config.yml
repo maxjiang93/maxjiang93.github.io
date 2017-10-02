@@ -14,15 +14,15 @@ author-pic: max-face.jpg
 about-author: My name is Max Jiang. I'm a third year PhD student at UC Berkeley. My research interest is in Machine Learning, AI, and its applications to fluid related physics.
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+email: chiyu.jiang@berkeley.edu # Add your Email address
+phone: "(607) 379-4895" # Add your Phone number
+website: cfd.me.berkeley.edu/people/chiyu-max-jiang/ # Add your website, do not add http://
+linkedin: maxcjiang # Add your Linkedin handle
+github: maxjiang93 # Add your Github handle
+#twitter: '@artemsheludko_' # Add your Twitter handle
+#facebook: # Add your Facebook handle
+#instagram: # Add your Instagram handle
+#pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
