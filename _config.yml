@@ -1,27 +1,29 @@
-title: "Max Jiang's Blog and Webpage"
+title: Max Jiang's Blog and Webpage
 email: chiyu.jiang@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is my personal blog and webpage to blog some of my research projects and other fun stuff.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "maxjiang93.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: "Max" Chiyu Jiang # add your name
-author-pic: max-face.jpg
-about-author: "My name is Max Jiang. I’m a PhD student in UC Berkeley. My research interest is in Deep Learning and AI, and its applications in fluid related physics."
+author: Adam Neilson # add your name
+author-pic: adam-face.jpg
+about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
 
 # Contact links
-email: chiyu.jiang@berkeley.edu # Add your Email address
-phone: (607) 379-4895 # Add your Phone number
-website: cfd.me.berkeley.edu/people/chiyu-max-jiang/ # Add your website, do not add http://
-linkedin: maxcjiang # Add your Linkedin handle
-github: maxjiang93 # Add your Github handle
-twitter: # Add your Twitter handle
+email: # Add your Email address
+phone: # Add your Phone number
+website: # Add your website, do not add http://
+linkedin: # Add your Linkedin handle
+github: artemsheludko # Add your Github handle
+twitter: '@artemsheludko_' # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
- 
+
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
 
