@@ -10,6 +10,10 @@ author: Max Jiang # Add name author (optional)
 
 One of my first year projects to morph arbitrary genus-one mesh and mesh patches with same number of boundaries. Input meshes are parameterized using spherical parameterization (for genus-zero shapes) and uv-parameterization (for mesh patches), and warped to match feature points. 
 
+<center>
 <img src="{{site.baseurl}}/assets/img/cmcf.gif" align="left" height="200" width="300"/>
 <img src="{{site.baseurl}}/assets/img/horse_cow_morph.gif" align="left" height="200" width="300"/>
-<img src="{{site.baseurl}}/assets/img/head_morph_cropped.gif" height="200" width="100"/>
+<img src="{{site.baseurl}}/assets/img/head_morph_cropped.gif" align="left" height="200" width="100"/>
+</center>
+
+Left to right: spherical parameterization for genus-zero horse mesh; morph between cow and horse; morph of two three-boundary mesh patches (Igea and Max Plank)
