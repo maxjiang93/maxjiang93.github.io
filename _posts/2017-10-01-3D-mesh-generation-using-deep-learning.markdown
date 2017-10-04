@@ -17,7 +17,7 @@ Here's a paper on this research:
 Hallucinating 3D objects has been done in the recent past, with vary degrees of success using binary voxels. However I am more interested in developing a mesh-based framework that creates mesh-based objects. Mesh based objects are nice, as it is the default data structure used in computer graphics, even scientific computational applications. The trick is to use signed distance function (SDF) based voxel representation instead of binary voxels. Of course, there's some more "magic" with detail enhancement, which can be found the the above paper.
 
 Merrying object generators with mesh-based graphics rendering algorithms creates pure magic. Realistic yet artificial scenes:
-![Rendered furnitures (chairs and tables)]({{site.baseurl}}/assets/img/furniture-render.gif)
+<img src="{{site.baseurl}}/assets/img/furniture-render.gif" width="500" height="500">
 
 The nice properties about arithmetics in latent space still hold. Interpolating between latent vectors give a smooth morph between shapes:
-![Rendered furnitures (chairs and tables)]({{site.baseurl}}/assets/img/morph.gif)
+<img src="{{site.baseurl}}/assets/img/morph.gif" width="500" height="500">
