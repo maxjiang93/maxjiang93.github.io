@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: "'Max' Chiyu Jiang" # add your name
-author-pic: max_profile_pic_sq.jpg
+author-pic: max_profile_pic_sq.JPG
 about-author: My name is Max Jiang. I'm a third year PhD student at UC Berkeley. My research interest is in Machine Learning, AI, and its applications to fluid related physics.
 
 # Contact links
