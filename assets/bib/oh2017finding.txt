@@ -1,0 +1,8 @@
+@article{oh2017finding,
+  title={Finding the optimal shape of the leading-and-trailing car of a high-speed train using design-by-morphing},
+  author={Oh, Sahuck and Jiang, Chung-Hsiang and Jiang, Chiyu and Marcus, Philip S},
+  journal={Computational Mechanics},
+  pages={1--23},
+  year={2017},
+  publisher={Springer}
+}

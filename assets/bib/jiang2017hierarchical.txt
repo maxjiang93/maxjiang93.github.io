@@ -1,0 +1,6 @@
+@article{jiang2017hierarchical,
+  title={Hierarchical Detail Enhancing Mesh-Based Shape Generation with 3D Generative Adversarial Network},
+  author={Jiang, Chiyu and Marcus, Philip and others},
+  journal={arXiv preprint arXiv:1709.07581},
+  year={2017}
+}

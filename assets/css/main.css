@@ -797,8 +797,33 @@ img {
   max-width: 100%;
 }
 
-a {
+/*a {
   color: #87314e;
+  color: #000099;
+}*/
+
+/* unvisited link */
+a:link {
+    color: #000099;
+    text-decoration: none;
+}
+
+/* visited link */
+/*a:visited {
+    color: #87314e;
+    text-decoration: none;
+}*/
+
+/* mouse over link */
+a:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+    text-decoration: none;
 }
 
 blockquote {
@@ -1455,6 +1480,18 @@ pre code {
   margin: 0 auto;
 }
 
+.content-wrapper {
+  width: 900px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.proj-content-wrapper {
+  width: 750px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
 .about-container {
   margin: 100px 0 100px;
 }
@@ -1759,3 +1796,5 @@ pre code {
     margin: 0 0 15px;
   }
 }
+
+/* = = = = = = = = = = My Additions = = = = = = = = = = */

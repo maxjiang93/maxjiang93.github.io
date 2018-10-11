@@ -1,15 +1,15 @@
-title: Max Jiang's Blog and Webpage
+title: Chiyu Max Jiang
 email: chiyu.jiang@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Max Jiang's personal blog and webpage to blog about research projects, ideas and other fun stuff.
+  Chiyu 'Max' Jiang
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: "'Max' Chiyu Jiang" # add your name
+author: "Chiyu 'Max' Jiang (蒋驰宇)" # add your name
 author-pic: max_profile_pic_sq.JPG
-about-author: My name is Max Jiang. I'm a third year PhD student at UC Berkeley. My research interest is in Machine Learning, AI, and its applications to fluid related physics.
+about-author: Ph.D student at UC Berkeley. </br> Deep Learning methods for 3D Geometries and Physical Systems.
 
 # Contact links
 email: chiyu.jiang@berkeley.edu # Add your Email address
@@ -40,5 +40,5 @@ gems:
   
 version: v1.2.0
 
-include: [_pages]
+include: [_pages, _proj]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "Gemfile", "Gemfile.lock"]
