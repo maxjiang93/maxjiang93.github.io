@@ -31,9 +31,9 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
                 font-size: 70%;
             }
         </style>
-        <button class="button-xsmall pure-button">Paper</button>
-        <button class="button-xsmall pure-button">Code</button>
-        <button class="button-xsmall pure-button">Bibtex</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://openreview.net/pdf?id=Bkl-43C9FQ'">Paper</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'">Code</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/anonymous2019spherical.txt'">Bibtex</button>
     </div>
 
 </td> 
@@ -51,9 +51,9 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
                 font-size: 70%;
             }
         </style>
-        <button class="button-xsmall pure-button">Paper</button>
-        <button class="button-xsmall pure-button">Code</button>
-        <button class="button-xsmall pure-button">Bibtex</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://openreview.net/pdf?id=B1G5ViAqFm'">Paper</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'">Code</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/anonymous2019convolutional.txt'">Bibtex</button>
     </div></td>
   </tr>
   <tr>

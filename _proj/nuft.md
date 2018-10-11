@@ -9,7 +9,7 @@ permalink: /proj/nuft
  &nbsp; &nbsp; &nbsp;<a href="http://www.me.berkeley.edu/people/faculty/philip-s-marcus">Philip Marcus</a> &nbsp; &nbsp; &nbsp;<a href="http://niessnerlab.org/">Matthias Niessner</a><br>
 <br>
 
-<a href="#" onclick="return false;">[Paper]</a>&nbsp;<a href="#" onclick="return false;">[Code]</a>&nbsp;<a href="#" onclick="return false;">[Bibtex]</a><br>
+<a href="#" onclick="window.location.href='https://openreview.net/pdf?id=B1G5ViAqFm'">[Paper]</a>&nbsp;<a href="#" onclick="window.location.href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'">[Code]</a>&nbsp;<a href="#" onclick="window.location.href='{{ site.baseurl }}/assets/bib/anonymous2019convolutional.txt'">[Bibtex]</a><br>
 <img src="{{ site.baseurl }}/assets/img/nuft/teaser.png" width="750"/>
 </center>
 **Figure 1** Top: Schematic of the NUFT transformations of the Stanford Bunny model. Bottom: Schematic for shape retrieval and surface reconstruction experiments.
