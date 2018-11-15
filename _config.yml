@@ -1,7 +1,7 @@
-title: Chiyu Max Jiang
+title: Chiyu Max Jiang - Homepage
 email: chiyu.jiang@berkeley.edu
-description: > # this means to ignore newlines until "baseurl:"
-  Chiyu 'Max' Jiang
+description: Ph.D student at UC Berkeley. Deep Learning methods for 3D Geometries and Physical Systems. # this means to ignore newlines until "baseurl:"
+keywords: Deep Learning, Machine Learning, Fluid Dynamics
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
