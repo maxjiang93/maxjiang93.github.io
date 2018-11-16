@@ -60,6 +60,23 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
   	<td><br></td>
   </tr>	
   <tr>
+    <td width="18%"><img src="{{ site.baseurl }}/assets/img/bayesianFig.png" width="350"/></td>
+    <td width="7%"></td>
+    <td width="75%"><a href='#'>Leveraging Bayesian Analysis To Improve Reduced Order Models</a>&nbsp;&nbsp;(<i>under review</i>)<br><font size="2">B.T. Nadiga, <b>Chiyu Max Jiang</b>, Daniel Livscu</font><br>
+    <div>
+        <style scoped>
+            .button-xsmall {
+                font-size: 70%;
+            }
+        </style>
+        <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'">Paper</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'">Bibtex</button>
+    </div></td>
+  </tr>
+  <tr>
+    <td><br></td>
+  </tr> 
+  <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/train/icon.png" width="200"/></center></td>
     <td width="7%"></td>
     <td width="75%"><a href="https://link.springer.com/article/10.1007/s00466-017-1482-4">Finding the optimal shape of the leading-and-trailing car of a high-speed train using design-by-morphing</a>&nbsp;&nbsp;<i>Computational Mechanics</i> (2017): 1-23.<br><font size="2">Sahuck Oh, Chung-Hsiang Jiang, <b>Chiyu "Max" Jiang</b>, Philip Marcus</font><br>

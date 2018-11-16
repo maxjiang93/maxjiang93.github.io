@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Code is yet to be released
+title: Yet to be released
 permalink: /to_be_released
 ---
 
-Code is to be release after paper acceptance.
+To be release after paper review process!
 
 ![]({{ site.baseurl }}/assets/img/trex.jpg "T-Rex is angry that code is not out yet...")
