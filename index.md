@@ -11,7 +11,7 @@ I'm a fourth-year Ph.D student at UC Berkeley advised by Prof. [Philip Marcus](h
 Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell University](https://www.cornell.edu/), as well as a joint degree from [Zhejiang University](http://www.zju.edu.cn/english/).
 
 ## News
-* <span style="color:red"> **New!** </span> I will be interning in [Machine Perception](https://ai.google/research/teams/perception/) @ [Google Research](https://ai.google/research/) as a Ph.D research intern.
+* <span style="color:red"> **New!** </span> I will be interning in [Machine Perception](https://ai.google/research/teams/perception/) @ [Google Research](https://ai.google/research/) in summer 2019 as a Ph.D research intern.
 * <span style="color:red"> **New!** </span> My work on Spherical CNNs on Unstructred Grids has been chosen for an oral presentation at the [AGU](https://fallmeeting.agu.org/2018/) (Americal Geophysics Union).
 * I am interning this summer at the Data Analytics group in NERSC, Lawrence Berkeley National Labratory, working with [Prabhat](http://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) and [Karthik Karshinath](http://www.nersc.gov/about/nersc-staff/data-analytics-services/karthik-kashinath/) on new Deep Learning methodologies for Climate Science.
 * I am invited to visit [Center for Nonlinear Studies](https://cnls.lanl.gov/External/) at Los Alamos National Labratory, and to present my work on 3D deep learning.
