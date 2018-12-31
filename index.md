@@ -34,7 +34,7 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
             }
         </style>
         <button class="button-xsmall pure-button" onclick="window.location.href='https://openreview.net/pdf?id=Bkl-43C9FQ'">Paper</button>
-        <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'">Code</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/maxjiang93/ugscnn'">Code</button>
         <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2019spherical.txt'">Bibtex</button>
     </div>
 
