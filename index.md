@@ -35,7 +35,6 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
         </style>
         <button class="button-xsmall pure-button" onclick="window.location.href='https://arxiv.org/abs/1901.11082'">Paper</button>
         <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/maxjiang93/DDSL'">Code</button>
-<!--         <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2019spherical.txt'">Bibtex</button> -->
     </div>
 
 </td> 
