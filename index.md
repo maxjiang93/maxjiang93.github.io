@@ -11,7 +11,7 @@ I'm a fourth-year Ph.D student at UC Berkeley advised by Prof. [Philip Marcus](h
 Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell University](https://www.cornell.edu/), as well as a joint degree from [Zhejiang University](http://www.zju.edu.cn/english/).
 
 ## News
-* <span style="color:red"> **New!** </span> Two of my papers have been accepted for the ICLR 2019 conference!
+* <span style="color:red"> **New!** </span> Two of my papers have been accepted to the ICLR 2019 conference!
 * <span style="color:red"> **New!** </span> I will be interning in [Machine Perception](https://ai.google/research/teams/perception/) @ [Google Research](https://ai.google/research/) in summer 2019 as a Ph.D research intern.
 * My work on Spherical CNNs on Unstructred Grids has been chosen for an oral presentation at the [AGU](https://fallmeeting.agu.org/2018/) (Americal Geophysics Union).
 * I am interning this summer at the Data Analytics group in NERSC, Lawrence Berkeley National Labratory, working with [Prabhat](http://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) and [Karthik Karshinath](http://www.nersc.gov/about/nersc-staff/data-analytics-services/karthik-kashinath/) on new Deep Learning methodologies for Climate Science.
@@ -21,8 +21,28 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
 ## Teaching
 * [Fa 17] [CS294-73](https://inst.eecs.berkeley.edu/~cs294-73/fa17/): Software Engineering for Scientific Computing.
 
-## Select Publications
+## Recent Publications
 <table style="width:100%">
+  <tr>
+    <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/ddsl/teaser.png" width="350"/></center></td>
+    <td width="7%"></td>
+    <td width="75%"><a href="{{ site.baseurl }}{% link _proj/ugscnn.md %}">DDSL: Deep Differentiable Simplex Layer for Learning Geometric Signals</a>&nbsp;&nbsp;(<i>under review</i>)<br><font size="2"><b>Chiyu "Max" Jiang</b>*, Dana Lansigan*, Philip Marcus, Matthias Niessner</font><br>
+    <div>
+        <style scoped>
+            .button-xsmall {
+                font-size: 70%;
+            }
+        </style>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://arxiv.org/abs/1901.11082'">Paper</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/maxjiang93/DDSL'">Code</button>
+<!--         <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2019spherical.txt'">Bibtex</button> -->
+    </div>
+
+</td> 
+  </tr>
+  <tr>
+    <td><br></td>
+  </tr> 
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/ugscnn/cli_pred.png" width="100"/></center></td>
     <td width="7%"></td>
@@ -33,7 +53,7 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
                 font-size: 70%;
             }
         </style>
-        <button class="button-xsmall pure-button" onclick="window.location.href='https://openreview.net/pdf?id=Bkl-43C9FQ'">Paper</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://arxiv.org/abs/1901.02039'">Paper</button>
         <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/maxjiang93/ugscnn'">Code</button>
         <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2019spherical.txt'">Bibtex</button>
     </div>
