@@ -83,7 +83,7 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
   <tr>
     <td width="18%"><img src="{{ site.baseurl }}/assets/img/bayesianFig.png" width="350"/></td>
     <td width="7%"></td>
-    <td width="75%"><a href='#'>Leveraging Bayesian Analysis To Improve Reduced Order Models</a>&nbsp;&nbsp;(to appear on Journal of Computational Physics)<br><font size="2">B.T. Nadiga, <b>Chiyu Max Jiang</b>, Daniel Livscu</font><br>
+    <td width="75%"><a href='#'>Leveraging Bayesian Analysis To Improve Reduced Order Models</a>&nbsp;&nbsp;(to appear in Journal of Computational Physics)<br><font size="2">B.T. Nadiga, <b>Chiyu Max Jiang</b>, Daniel Livscu</font><br>
     <div>
         <style scoped>
             .button-xsmall {
