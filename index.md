@@ -26,7 +26,7 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/ddsl/teaser.png" width="350"/></center></td>
     <td width="7%"></td>
-    <td width="75%"><a href="{{ site.baseurl }}{% link _proj/ugscnn.md %}">DDSL: Deep Differentiable Simplex Layer for Learning Geometric Signals</a>&nbsp;&nbsp;(<i>under review</i>)<br><font size="2"><b>Chiyu "Max" Jiang</b>*, Dana Lansigan*, Philip Marcus, Matthias Niessner</font><br>
+    <td width="75%"><a href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'>DDSL: Deep Differentiable Simplex Layer for Learning Geometric Signals</a>&nbsp;&nbsp;(<i>under review</i>)<br><font size="2"><b>Chiyu "Max" Jiang</b>*, Dana Lansigan*, Philip Marcus, Matthias Niessner</font><br>
     <div>
         <style scoped>
             .button-xsmall {
