@@ -18,8 +18,12 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
 * I am invited to visit [Center for Nonlinear Studies](https://cnls.lanl.gov/External/) at Los Alamos National Labratory, and to present my work on 3D deep learning.
 * I made an oral presentation of my work on Aerodynamics Optimization using Deep Learning at [Physics Informed Machine Learning](http://www.cvent.com/events/2nd-physics-informed-machine-learning/event-summary-ae6f3a0d824944d9bfc805f3d66773ee.aspx).
 
-## Teaching
-* [Fa 17] [CS294-73](https://inst.eecs.berkeley.edu/~cs294-73/fa17/): Software Engineering for Scientific Computing.
+## Experiences
+* [Su 19] <b>Research Intern at Google AI - Perception</b>: <br> Research on deep 3D geometric representation and reconstructions.
+
+* [Su 18] <b>Research Intern at Lawrence Berkeley National Lab</b>: <br>Research on Spherical CNNs on Unstructured Grids and applications towards computer vision and climate science (subsequent publication at ICLR 2019).
+
+* [Fa 17] <b>Graduate Student Instructor</b>: <br>([CS294-73](https://inst.eecs.berkeley.edu/~cs294-73/fa17/)): Software Engineering for Scientific Computing.
 
 ## Recent Publications
 <table style="width:100%">
@@ -83,7 +87,7 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
   <tr>
     <td width="18%"><img src="{{ site.baseurl }}/assets/img/bayesianFig.png" width="350"/></td>
     <td width="7%"></td>
-    <td width="75%"><a href='#'>Leveraging Bayesian Analysis To Improve Reduced Order Models</a>&nbsp;&nbsp;(to appear in Journal of Computational Physics)<br><font size="2">B.T. Nadiga, <b>Chiyu Max Jiang</b>, Daniel Livscu</font><br>
+    <td width="75%"><a href='#'>Leveraging Bayesian Analysis To Improve Reduced Order Models</a>&nbsp;&nbsp;<i>Journal of Computational Physics</i> (2019): 280-297.<br><font size="2">B.T. Nadiga, <b>Chiyu Max Jiang</b>, Daniel Livscu</font><br>
     <div>
         <style scoped>
             .button-xsmall {
