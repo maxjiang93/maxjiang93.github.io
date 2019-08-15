@@ -11,9 +11,10 @@ I'm a fourth-year Ph.D student at UC Berkeley advised by Prof. [Philip Marcus](h
 Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell University](https://www.cornell.edu/), as well as a joint degree from [Zhejiang University](http://www.zju.edu.cn/english/).
 
 ## News
-* <span style="color:red"> **New!** </span> Two of my papers have been accepted to the ICLR 2019 conference!
+* <span style="color:red"> **New!** </span> My recent paper on Deep Differentiable Simplex Layer has been accepted to ICCV 2019 conference!
 * <span style="color:red"> **New!** </span> I will be interning in [Machine Perception](https://ai.google/research/teams/perception/) @ [Google Research](https://ai.google/research/) in summer 2019 as a Ph.D research intern.
 * My work on Spherical CNNs on Unstructred Grids has been chosen for an oral presentation at the [AGU](https://fallmeeting.agu.org/2018/) (Americal Geophysics Union).
+* Two of my papers have been accepted to the ICLR 2019 conference!
 * I am interning this summer at the Data Analytics group in NERSC, Lawrence Berkeley National Labratory, working with [Prabhat](http://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) and [Karthik Karshinath](http://www.nersc.gov/about/nersc-staff/data-analytics-services/karthik-kashinath/) on new Deep Learning methodologies for Climate Science.
 * I am invited to visit [Center for Nonlinear Studies](https://cnls.lanl.gov/External/) at Los Alamos National Labratory, and to present my work on 3D deep learning.
 * I made an oral presentation of my work on Aerodynamics Optimization using Deep Learning at [Physics Informed Machine Learning](http://www.cvent.com/events/2nd-physics-informed-machine-learning/event-summary-ae6f3a0d824944d9bfc805f3d66773ee.aspx).
@@ -30,7 +31,7 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/ddsl/teaser.png" width="350"/></center></td>
     <td width="7%"></td>
-    <td width="75%"><a href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'>DDSL: Deep Differentiable Simplex Layer for Learning Geometric Signals</a>&nbsp;&nbsp;(<i>under review</i>)<br><font size="2"><b>Chiyu "Max" Jiang</b>*, Dana Lansigan*, Philip Marcus, Matthias Niessner</font><br>
+    <td width="75%"><a href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'>DDSL: Deep Differentiable Simplex Layer for Learning Geometric Signals</a>&nbsp;&nbsp;<i>Proceedings of the IEEE International Conference on Computer Vision (2019)</i><br><font size="2"><b>Chiyu "Max" Jiang</b>*, Dana Lansigan*, Philip Marcus, Matthias Niessner</font><br>
     <div>
         <style scoped>
             .button-xsmall {
@@ -49,7 +50,7 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/ugscnn/cli_pred.png" width="100"/></center></td>
     <td width="7%"></td>
-    <td width="75%"><a href="{{ site.baseurl }}{% link _proj/ugscnn.md %}">Spherical CNNs on Unstructured Grids</a>&nbsp;&nbsp;<i>International Conference on Learning Representations (ICLR 2019)</i><br><font size="2"><b>Chiyu "Max" Jiang</b>, Jingwei Huang, Karthik Kashinath, Prabhat, Philip Marcus, Matthias Niessner</font><br>
+    <td width="75%"><a href="{{ site.baseurl }}{% link _proj/ugscnn.md %}">Spherical CNNs on Unstructured Grids</a>&nbsp;&nbsp;<i>International Conference on Learning Representations (2019)</i><br><font size="2"><b>Chiyu "Max" Jiang</b>, Jingwei Huang, Karthik Kashinath, Prabhat, Philip Marcus, Matthias Niessner</font><br>
     <div>
         <style scoped>
             .button-xsmall {
@@ -69,7 +70,7 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
   <tr>
     <td width="18%"><img src="{{ site.baseurl }}/assets/img/nuft/icon.png" width="350"/></td>
     <td width="7%"></td>
-    <td width="75%"><a href="{{ site.baseurl }}{% link _proj/nuft.md %}">Convolutional Neural Networks on non-uniform geometrical signals using Euclidean spectral transformation</a>&nbsp;&nbsp;<i>International Conference on Learning Representations (ICLR 2019)</i><br><font size="2"><b>Chiyu "Max" Jiang</b>, Dequan Wang, Jingwei Huang, Philip Marcus, Matthias Niessner</font><br>
+    <td width="75%"><a href="{{ site.baseurl }}{% link _proj/nuft.md %}">Convolutional Neural Networks on non-uniform geometrical signals using Euclidean spectral transformation</a>&nbsp;&nbsp;<i>International Conference on Learning Representations (2019)</i><br><font size="2"><b>Chiyu "Max" Jiang</b>, Dequan Wang, Jingwei Huang, Philip Marcus, Matthias Niessner</font><br>
     <div>
         <style scoped>
             .button-xsmall {
