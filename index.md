@@ -28,7 +28,7 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
 
 ## Professional Service
 
-Reviewer [ICCV'19], Program Committee Member [AAAI'20].
+Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
 
 ## Recent Publications
 <table style="width:100%">
