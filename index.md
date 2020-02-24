@@ -11,7 +11,8 @@ I'm a fifth-year Ph.D student at UC Berkeley advised by Prof. [Philip Marcus](ht
 Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell University](https://www.cornell.edu/), as well as a joint degree from [Zhejiang University](http://www.zju.edu.cn/english/).
 
 ## News
-* <span style="color:red"> **New!** </span> My recent paper on Deep Differentiable Simplex Layer has been accepted to ICCV 2019 conference!
+* <span style="color:red"> **New!** </span> Two papers accepted to CVPR 2020! Check out my paper on learning local implicit grid representation for 3D scenes, and adversarial texture optimization from RGB-D scans.
+* My recent paper on Deep Differentiable Simplex Layer has been accepted to ICCV 2019 conference!
 * I will be interning in [Machine Perception](https://ai.google/research/teams/perception/) @ [Google Research](https://ai.google/research/) in summer 2019 as a Ph.D research intern.
 * My work on Spherical CNNs on Unstructred Grids has been chosen for an oral presentation at the [AGU](https://fallmeeting.agu.org/2018/) (Americal Geophysics Union).
 * Two of my papers have been accepted to the ICLR 2019 conference!
@@ -33,6 +34,40 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
 ## Recent Publications
 <table style="width:100%">
   <tr>
+    <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/lig/teaser.png" width="350"/></center></td>
+    <td width="7%"></td>
+    <td width="75%"><a href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'>Learning Local Implicit Grid Representation for 3D Scenes</a>&nbsp;&nbsp;<i>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (2020)</i><br><font size="2"><b>Chiyu "Max" Jiang</b>, Avneesh Sud, Ameesh Makadia, Jingwei Huang, Matthias Niessner, Tom Funkhouser</font><br>
+    <div>
+        <style scoped>
+            .button-xsmall {
+                font-size: 70%;
+            }
+        </style>
+    </div>
+
+</td>
+  </tr>
+  <tr>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/texturegen/teaser.png" width="350"/></center></td>
+    <td width="7%"></td>
+    <td width="75%"><a href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'>Adversarial Texture Optimization from RGB-D Scans</a>&nbsp;&nbsp;<i>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (2020)</i><br><font size="2">Jingwei Huang, Justus Thies, Angela Dai, Abhijit Kudu, <b>Chiyu "Max" Jiang</b>, Leonidas Guibas, Matthias Niessner, Tom Funkhouser</font><br>
+    <div>
+        <style scoped>
+            .button-xsmall {
+                font-size: 70%;
+            }
+        </style>
+    </div>
+
+</td>
+  </tr>
+  <tr>
+    <td><br></td>
+  </tr>
+  <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/ddsl/teaser.png" width="350"/></center></td>
     <td width="7%"></td>
     <td width="75%"><a href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'>DDSL: Deep Differentiable Simplex Layer for Learning Geometric Signals</a>&nbsp;&nbsp;<i>Proceedings of the IEEE International Conference on Computer Vision (2019)</i><br><font size="2"><b>Chiyu "Max" Jiang</b>*, Dana Lansigan*, Philip Marcus, Matthias Niessner</font><br>
@@ -46,11 +81,11 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
         <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/maxjiang93/DDSL'">Code</button>
     </div>
 
-</td> 
+</td>
   </tr>
   <tr>
     <td><br></td>
-  </tr> 
+  </tr>
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/ugscnn/cli_pred.png" width="100"/></center></td>
     <td width="7%"></td>
@@ -66,11 +101,11 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
         <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2019spherical.txt'">Bibtex</button>
     </div>
 
-</td> 
+</td>
   </tr>
   <tr>
   	<td><br></td>
-  </tr>	
+  </tr>
   <tr>
     <td width="18%"><img src="{{ site.baseurl }}/assets/img/nuft/icon.png" width="350"/></td>
     <td width="7%"></td>
@@ -88,7 +123,7 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
   </tr>
   <tr>
   	<td><br></td>
-  </tr>	
+  </tr>
   <tr>
     <td width="18%"><img src="{{ site.baseurl }}/assets/img/bayesianFig.png" width="350"/></td>
     <td width="7%"></td>
@@ -105,7 +140,7 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
   </tr>
   <tr>
     <td><br></td>
-  </tr> 
+  </tr>
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/train/icon.png" width="200"/></center></td>
     <td width="7%"></td>
@@ -120,11 +155,11 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
         <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/oh2017finding.txt'">Bibtex</button>
     </div>
 
-</td> 
+</td>
   </tr>
   <tr>
   	<td><br></td>
-  </tr>	
+  </tr>
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/shape/furniture-render.gif" width="250"/></center></td>
     <td width="7%"></td>
@@ -139,7 +174,7 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
         <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2017hierarchical.txt'">Bibtex</button>
     </div>
 
-</td> 
+</td>
   </tr>
 </table>
 
