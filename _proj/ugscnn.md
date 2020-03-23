@@ -9,7 +9,7 @@ permalink: /proj/ugscnn
 <a href=
 "http://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/">Prabhat</a> &nbsp; &nbsp; &nbsp;<a href="http://www.me.berkeley.edu/people/faculty/philip-s-marcus">Philip Marcus</a> &nbsp; &nbsp; &nbsp;<a href="http://niessnerlab.org/">Matthias Niessner</a><br>
 <br>
-<a href="#" onclick="window.location.href='https://openreview.net/pdf?id=Bkl-43C9FQ'">[Paper]</a>&nbsp;<a href="#" onclick="window.location.href='https://github.com/maxjiang93/ugscnn'">[Code]</a>&nbsp;<a href="#" onclick="window.location.href='{{ site.baseurl }}/assets/bib/anonymous2019spherical.txt'">[Bibtex]</a>
+<a href="#" onclick="window.location.href='https://openreview.net/pdf?id=Bkl-43C9FQ'">[Paper]</a>&nbsp;<a href="#" onclick="window.location.href='https://github.com/maxjiang93/ugscnn'">[Code]</a>&nbsp;<a href="#" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2019spherical.txt'">[Bibtex]</a>
 <img src="{{ site.baseurl }}/assets/img/ugscnn/teaser.png" width="750"/>
 </center>
 **Figure 1** Illustration for the MeshConv operator using parameterized differential operators to replace conventional learnable convolutional kernels.

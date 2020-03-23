@@ -29,20 +29,28 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
 
 ## Professional Service
 
-Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
+Reviewer [ICCV'19, AAAI'20, CVPR'20, ECCV'20, NeurIPS'20]
 
 ## Recent Publications
 <table style="width:100%">
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/lig/teaser.png" width="350"/></center></td>
     <td width="7%"></td>
-    <td width="75%"><a href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'>Learning Local Implicit Grid Representation for 3D Scenes</a>&nbsp;&nbsp;<i>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (2020)</i><br><font size="2"><b>Chiyu "Max" Jiang</b>, Avneesh Sud, Ameesh Makadia, Jingwei Huang, Matthias Niessner, Tom Funkhouser</font><br>
+    <td width="75%"><a href="{{ site.baseurl }}{% link _proj/lig.md %}">Learning Local Implicit Grid Representation for 3D Scenes</a>
+      <br>
+      <i>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (2020)</i>
+      <br>
+      <font size="2"><b>Chiyu "Max" Jiang</b>, Avneesh Sud, Ameesh Makadia, Jingwei Huang, Matthias Niessner, Tom Funkhouser</font><br>
     <div>
         <style scoped>
             .button-xsmall {
                 font-size: 70%;
             }
         </style>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://arxiv.org/abs/2003.08981'">Paper</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/google-research/google-research/tree/master/local_implicit_grid'">Code</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2020lig.txt'">Bibtex</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://youtu.be/XCyl1-vxfII'">Video</button>
     </div>
 
 </td>
@@ -53,13 +61,22 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/texturegen/teaser.png" width="350"/></center></td>
     <td width="7%"></td>
-    <td width="75%"><a href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'>Adversarial Texture Optimization from RGB-D Scans</a>&nbsp;&nbsp;<i>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (2020)</i><br><font size="2">Jingwei Huang, Justus Thies, Angela Dai, Abhijit Kudu, <b>Chiyu "Max" Jiang</b>, Leonidas Guibas, Matthias Niessner, Tom Funkhouser</font><br>
+    <td width="75%"><a href='http://stanford.edu/~jingweih/papers/advtex/'>Adversarial Texture Optimization from RGB-D Scans</a>
+      <br>
+      <i>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (2020)</i>
+      <br>
+      <font size="2">Jingwei Huang, Justus Thies, Angela Dai, Abhijit Kundu, <b>Chiyu "Max" Jiang</b>, Leonidas Guibas, Matthias Niessner, Tom Funkhouser</font><br>
     <div>
         <style scoped>
             .button-xsmall {
                 font-size: 70%;
             }
         </style>
+        <button class="button-xsmall pure-button" onclick="window.location.href='http://stanford.edu/~jingweih/papers/advtex/supp/paper.pdf'">Paper</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='http://stanford.edu/~jingweih/papers/advtex/supp/supplemental.pdf'">Supplemental</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/hjwdzh/AdversarialTexture'">Code</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/huang2020adversarial.txt'">Bibtex</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://youtu.be/52xlRn0ESek'">Video</button>
     </div>
 
 </td>
@@ -70,7 +87,11 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/ddsl/teaser.png" width="350"/></center></td>
     <td width="7%"></td>
-    <td width="75%"><a href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'>DDSL: Deep Differentiable Simplex Layer for Learning Geometric Signals</a>&nbsp;&nbsp;<i>Proceedings of the IEEE International Conference on Computer Vision (2019)</i><br><font size="2"><b>Chiyu "Max" Jiang</b>*, Dana Lansigan*, Philip Marcus, Matthias Niessner</font><br>
+    <td width="75%"><a href='{{ site.baseurl }}{% link _pages/tobereleased.md %}'>DDSL: Deep Differentiable Simplex Layer for Learning Geometric Signals</a>
+      <br>
+      <i>Proceedings of the IEEE International Conference on Computer Vision (2019)</i>
+      <br>
+      <font size="2"><b>Chiyu "Max" Jiang</b>*, Dana Lansigan*, Philip Marcus, Matthias Niessner</font><br>
     <div>
         <style scoped>
             .button-xsmall {
@@ -109,7 +130,11 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
   <tr>
     <td width="18%"><img src="{{ site.baseurl }}/assets/img/nuft/icon.png" width="350"/></td>
     <td width="7%"></td>
-    <td width="75%"><a href="{{ site.baseurl }}{% link _proj/nuft.md %}">Convolutional Neural Networks on non-uniform geometrical signals using Euclidean spectral transformation</a>&nbsp;&nbsp;<i>International Conference on Learning Representations (2019)</i><br><font size="2"><b>Chiyu "Max" Jiang</b>, Dequan Wang, Jingwei Huang, Philip Marcus, Matthias Niessner</font><br>
+    <td width="75%"><a href="{{ site.baseurl }}{% link _proj/nuft.md %}">Convolutional Neural Networks on non-uniform geometrical signals using Euclidean spectral transformation</a>
+      <br>
+      <i>International Conference on Learning Representations (2019)</i>
+      <br>
+      <font size="2"><b>Chiyu "Max" Jiang</b>, Dequan Wang, Jingwei Huang, Philip Marcus, Matthias Niessner</font><br>
     <div>
         <style scoped>
             .button-xsmall {
@@ -127,7 +152,12 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
   <tr>
     <td width="18%"><img src="{{ site.baseurl }}/assets/img/bayesianFig.png" width="350"/></td>
     <td width="7%"></td>
-    <td width="75%"><a href='#'>Leveraging Bayesian Analysis To Improve Reduced Order Models</a>&nbsp;&nbsp;<i>Journal of Computational Physics</i> (2019): 280-297.<br><font size="2">B.T. Nadiga, <b>Chiyu Max Jiang</b>, Daniel Livscu</font><br>
+    <td width="75%"><a href='#'>Leveraging Bayesian Analysis To Improve Reduced Order Models</a>
+      <br>
+      <i>Journal of Computational Physics</i> (2019): 280-297.
+      <br>
+      <font size="2">B.T. Nadiga, <b>Chiyu Max Jiang</b>, Daniel Livscu</font>
+      <br>
     <div>
         <style scoped>
             .button-xsmall {
@@ -144,7 +174,11 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/train/icon.png" width="200"/></center></td>
     <td width="7%"></td>
-    <td width="75%"><a href="https://link.springer.com/article/10.1007/s00466-017-1482-4">Finding the optimal shape of the leading-and-trailing car of a high-speed train using design-by-morphing</a>&nbsp;&nbsp;<i>Computational Mechanics</i> (2017): 1-23.<br><font size="2">Sahuck Oh, Chung-Hsiang Jiang, <b>Chiyu "Max" Jiang</b>, Philip Marcus</font><br>
+    <td width="75%"><a href="https://link.springer.com/article/10.1007/s00466-017-1482-4">Finding the optimal shape of the leading-and-trailing car of a high-speed train using design-by-morphing</a>
+      <br>
+      <i>Computational Mechanics</i> (2017): 1-23.
+      <br>
+      <font size="2">Sahuck Oh, Chung-Hsiang Jiang, <b>Chiyu "Max" Jiang</b>, Philip Marcus</font><br>
     <div>
         <style scoped>
             .button-xsmall {
@@ -163,7 +197,7 @@ Reviewer [ICCV'19, CVPR'20, ECCV'20], Program Committee Member [AAAI'20].
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/shape/furniture-render.gif" width="250"/></center></td>
     <td width="7%"></td>
-    <td width="75%"><a href="https://arxiv.org/abs/1709.07581">Hierarchical Detail Enhancing Mesh-Based Shape Generation with 3D Generative Adversarial Network</a>&nbsp;&nbsp; arXiv (2017) <br><font size="2"><b>Chiyu "Max" Jiang</b>, Philip Marcus</font><br>
+    <td width="75%"><a href="https://arxiv.org/abs/1709.07581">Hierarchical Detail Enhancing Mesh-Based Shape Generation with 3D Generative Adversarial Network</a><br><font size="2"><b>Chiyu "Max" Jiang</b>, Philip Marcus</font><br>
     <div>
         <style scoped>
             .button-xsmall {

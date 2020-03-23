@@ -1,0 +1,6 @@
+@inproceedings{huang2020adversarial,
+  title={{A}dversarial {T}exture {O}ptimization from {RGB-D} {S}cans},
+  author={Huang, Jingwei and Thies, Justus and Dai, Angela and Kundu, Abhijit and Jiang, Chiyu and Guibas, Leonidas and Niessner, Matthias and Funkhouser, Thomas},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2020}
+}
