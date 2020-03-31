@@ -1,0 +1,7 @@
+@inproceedings{jiang2019ddsl,
+  title={DDSL: Deep Differentiable Simplex Layer for Learning Geometric Signals},
+  author={Jiang, Chiyu and Lansigan, Dana and Marcus, Philip and Niessner, Matthias},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={8769--8778},
+  year={2019}
+}

@@ -1,0 +1,9 @@
+@article{nadiga2019leveraging,
+  title={Leveraging Bayesian analysis to improve accuracy of approximate models},
+  author={Nadiga, Balasubramanya and Jiang, Chiyu and Livescu, Daniel},
+  journal={Journal of Computational Physics},
+  volume={394},
+  pages={280--297},
+  year={2019},
+  publisher={Elsevier}
+}
