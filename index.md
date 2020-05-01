@@ -31,8 +31,31 @@ Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell Universit
 
 Reviewer [ICCV'19, AAAI'20, CVPR'20, ECCV'20, NeurIPS'20]
 
-## Recent Publications
+## Publications
 <table style="width:100%">
+  <tr>
+    <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/meshfreeflownet/teaser.gif" width="350"/></center></td>
+    <td width="7%"></td>
+    <td width="75%">MeshfreeFlowNet: A Physics-Constrained Deep Continuous Space-Time Super-Resolution Framework
+      <br>
+      <i>In submission</i>
+      <br>
+      <font size="2"><b>Chiyu "Max" Jiang*</b>, Soheil Esmaeilzadeh*, Kamyar Azizzadenesheli, Karthik Kashinath, Mustafa Mustafa, Hamdi Tchelepi, Philip Marcus, Prabhat, Anima Anandkumar</font><br>
+    <div>
+        <style scoped>
+            .button-xsmall {
+                font-size: 70%;
+            }
+        </style>
+        <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}{% link _proj/meshfreeflownet.md %}'">Webpage</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href=''">Paper</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/maxjiang93/space_time_pde'">Code</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2020meshfreeflownet.txt'">Bibtex</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://youtu.be/mjqwPch9gDo'">Video</button>
+    </div>
+
+</td>
+  </tr>
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/lig/teaser.png" width="350"/></center></td>
     <td width="7%"></td>
@@ -55,6 +78,7 @@ Reviewer [ICCV'19, AAAI'20, CVPR'20, ECCV'20, NeurIPS'20]
     </div>
 
 </td>
+
   </tr>
   <tr>
     <td><br></td>
