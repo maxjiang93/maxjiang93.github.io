@@ -48,7 +48,7 @@ Reviewer [ICCV'19, AAAI'20, CVPR'20, ECCV'20, NeurIPS'20]
             }
         </style>
         <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}{% link _proj/meshfreeflownet.md %}'">Webpage</button>
-        <button class="button-xsmall pure-button" onclick="window.location.href=''">Paper</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://arxiv.org/pdf/2005.01463.pdf'">Paper</button>
         <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/maxjiang93/space_time_pde'">Code</button>
         <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2020meshfreeflownet.txt'">Bibtex</button>
         <button class="button-xsmall pure-button" onclick="window.location.href='https://youtu.be/mjqwPch9gDo'">Video</button>
