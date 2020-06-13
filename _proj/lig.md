@@ -8,7 +8,7 @@ permalink: /proj/lig
 <a href="http://www.maxjiang.ml/">Chiyu "Max" Jiang</a> &nbsp; &nbsp; &nbsp;<a href="https://research.google/people/105052/">Avneesh Sud</a> &nbsp; &nbsp; &nbsp;<a href="http://www.ameeshmakadia.com/index.html">Ameesh Makadia</a> &nbsp; &nbsp; &nbsp;<a href="http://stanford.edu/~jingweih/">Jingwei Huang</a> &nbsp; &nbsp; &nbsp;<br>
 <a href="https://www.niessnerlab.org/members/matthias_niessner/profile.html">Matthias Niessner</a> &nbsp; &nbsp; &nbsp;<a href="https://www.cs.princeton.edu/~funk/">Thomas Funkhouser</a><br />
 <br>
-<a href="#" onclick="window.location.href='https://arxiv.org/abs/2003.08981'">[Paper]</a>&nbsp;&nbsp;<a href="#" onclick="window.location.href='https://github.com/google-research/google-research/tree/master/local_implicit_grid'">[Code]</a>&nbsp;&nbsp;<a href="#" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2020lig.txt'">[Bibtex]</a>&nbsp;&nbsp;<a href="#" onclick="window.location.href='https://youtu.be/XCyl1-vxfII'">[Video]</a>
+<a href="#" onclick="window.location.href='https://arxiv.org/abs/2003.08981'">[Paper]</a>&nbsp;&nbsp;<a href="#" onclick="window.location.href='https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/local_implicit_grid'">[Code]</a>&nbsp;&nbsp;<a href="#" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2020lig.txt'">[Bibtex]</a>&nbsp;&nbsp;<a href="#" onclick="window.location.href='https://youtu.be/XCyl1-vxfII'">[Video]</a>
 <br>
 <br>
 <img src="{{ site.baseurl }}/assets/img/lig/lig_teaser_wide.png" width="750"/>
