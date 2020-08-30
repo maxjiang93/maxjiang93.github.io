@@ -7,11 +7,13 @@ title: Homepage
 ## Bio
 I am currently a Senior Applied Research Scientst at [Cruise AI](https://www.getcruise.com/), where I work on LiDAR-based object detection systems to advance the state of 3D Computer Vision for self-driving cars. 
 
-I received a Ph.D. from UC Berkeley in 2020, where I worked on 3D Computer Vision / Geometric Deep Learning algorithms, with first-author publications in top CV/ML conferences (CVPR, ICCV, ICLR). I had the pleasure of collaborating with [Matthias Niessner](https://www.niessnerlab.org/members/matthias_niessner/profile.html) (TUM), [Tom Funkhouser](https://www.cs.princeton.edu/~funk/) (Google), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) (Stanford), [Andrea Tagliasacchi](https://taiya.github.io/) (Google Brain), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (CalTech, NVIDIA) and [Prabhat](https://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) (LBNL), among other amazing researchers in this field. I was advised by [Philip Marcus](https://www.me.berkeley.edu/people/faculty/philip-s-marcus), and I have worked as interns and student researchers at [Google AI](https://ai.google/research/) and [Lawrence Berkeley National Lab](https://www.nersc.gov/).
+I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Geometric Deep Learning algorithms, and have first-author publications in top CV/ML conferences (CVPR, ICCV, ICLR). I had the pleasure of collaborating with [Matthias Niessner](https://www.niessnerlab.org/members/matthias_niessner/profile.html) (TUM), [Tom Funkhouser](https://www.cs.princeton.edu/~funk/) (Google), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) (Stanford), [Andrea Tagliasacchi](https://taiya.github.io/) (Google Brain), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (CalTech, NVIDIA) and [Prabhat](https://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) (LBNL), among other amazing researchers in this field. I was advised by [Philip Marcus](https://www.me.berkeley.edu/people/faculty/philip-s-marcus), and I have worked as interns and student researchers at [Google AI](https://ai.google/research/) and [Lawrence Berkeley National Lab](https://www.nersc.gov/).
 
 ## News
 * [06/2020] <span style="color:red"> **New!** </span> I started the position of Senior Applied Research Scientist at Cruise, working on 3D Computer Vision for self-driving cars.
 * [06/2020] <span style="color:red"> **New!** </span> Our recent work, MeshfreeFlowNet, has been selected for publication at [SC20](https://sc20.supercomputing.org/)!
+<details markdown="1"><summary>See More</summary>
+<span>
 * [03/2020] Two papers accepted to CVPR 2020! Check out our papers on local implicit grid representations for 3D scenes, and adversarial texture optimization from RGB-D scans.
 * [07/2019] Our recent paper on Deep Differentiable Simplex Layer has been accepted to ICCV 2019 conference!
 * [05/2019] I will be interning in [Machine Perception](https://ai.google/research/teams/perception/) @ [Google Research](https://ai.google/research/) in summer 2019 as a Ph.D research intern.
@@ -20,6 +22,7 @@ I received a Ph.D. from UC Berkeley in 2020, where I worked on 3D Computer Visio
 * [06/2018] I am interning this summer at the Data Analytics group in NERSC, Lawrence Berkeley National Labratory, working with [Prabhat](http://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) and [Karthik Karshinath](http://www.nersc.gov/about/nersc-staff/data-analytics-services/karthik-kashinath/) on new Deep Learning methodologies for Climate Science.
 * [03/2018] I am invited to visit [Center for Nonlinear Studies](https://cnls.lanl.gov/External/) at Los Alamos National Labratory, and to present my work on 3D deep learning.
 * [01/2018] I made an oral presentation of my work on Aerodynamics Optimization using Deep Learning at [Physics Informed Machine Learning](http://www.cvent.com/events/2nd-physics-informed-machine-learning/event-summary-ae6f3a0d824944d9bfc805f3d66773ee.aspx).
+</details>
 
 ## Experiences
 **[Cruise](https://www.getcruise.com/)** \| San Francisco, CA 
