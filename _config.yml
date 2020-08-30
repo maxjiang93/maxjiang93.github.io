@@ -1,6 +1,6 @@
 title: Chiyu Max Jiang
 email: chiyu.jiang@berkeley.edu
-description: Ph.D student at UC Berkeley. Deep Learning methods for 3D Geometries and Physical Systems. # this means to ignore newlines until "baseurl:"
+description: Senior Applied Research Scientist, Cruise AI. 3D Deep Learning | Computer Vision | Self-driving Cars. # this means to ignore newlines until "baseurl:"
 keywords: 3D Deep Learning, 3D Computer Vision, Scientific Computing
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: "Chiyu 'Max' Jiang (蒋驰宇)" # add your name
 author-pic: max_profile_pic_sq.JPG
-about-author: Ph.D student at UC Berkeley. </br> Deep Learning methods for 3D Geometries and Physical Systems.
+about-author: Senior Applied Research Scientist, Cruise AI </br> 3D Deep Learning | Computer Vision | Self-driving Cars
 
 # Contact links
 email: chiyu.jiang@berkeley.edu # Add your Email address

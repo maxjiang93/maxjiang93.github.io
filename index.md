@@ -4,41 +4,79 @@ title: Homepage
 
 ---
 
-## About
+## Bio
+I am currently a Senior Applied Research Scientst at [Cruise AI](https://www.getcruise.com/), where I work on LiDAR-based object detection systems to advance the state of 3D Computer Vision for self-driving cars. 
 
-I'm a fifth-year Ph.D student at UC Berkeley advised by Prof. [Philip Marcus](https://www.me.berkeley.edu/people/faculty/philip-s-marcus), affiliated with the Data Analytics group at [NERSC](http://nersc.gov/), Lawrence Berkeley National Lab. My research interest is in Machine Learning and Deep Learning methodologies related to 3D geometry. In particular, I am interested in leveraging advances in 3D learning for applications in a variety of physical and engineering systems, examples include 3D scene reconstruction, omnidirectional image segmentation, climate pattern detection and aerodynamical shape optimization.
-
-Prior to joining UC Berkeley, I got my Bachelor's degree from [Cornell University](https://www.cornell.edu/), as well as a joint degree from [Zhejiang University](http://www.zju.edu.cn/english/).
+I received a Ph.D. from UC Berkeley in 2020, where I worked on 3D Computer Vision / Geometric Deep Learning algorithms, with first-author publications in top CV/ML conferences (CVPR, ICCV, ICLR). I had the pleasure of collaborating with [Matthias Niessner](https://www.niessnerlab.org/members/matthias_niessner/profile.html) (TUM), [Tom Funkhouser](https://www.cs.princeton.edu/~funk/) (Google), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) (Stanford), [Andrea Tagliasacchi](https://taiya.github.io/) (Google Brain), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (CalTech, NVIDIA) and [Prabhat](https://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) (LBNL), among other amazing researchers in this field. I was advised by [Philip Marcus](https://www.me.berkeley.edu/people/faculty/philip-s-marcus), and I have worked as interns and student researchers at [Google AI](https://ai.google/research/) and [Lawrence Berkeley National Lab](https://www.nersc.gov/).
 
 ## News
-* <span style="color:red"> **New!** </span> Two papers accepted to CVPR 2020! Check out my papers on local implicit grid representations for 3D scenes, and adversarial texture optimization from RGB-D scans.
-* My recent paper on Deep Differentiable Simplex Layer has been accepted to ICCV 2019 conference!
-* I will be interning in [Machine Perception](https://ai.google/research/teams/perception/) @ [Google Research](https://ai.google/research/) in summer 2019 as a Ph.D research intern.
-* My work on Spherical CNNs on Unstructred Grids has been chosen for an oral presentation at the [AGU](https://fallmeeting.agu.org/2018/) (Americal Geophysics Union).
+* [06/2020] <span style="color:red"> **New!** </span> I started the position of Senior Applied Research Scientist at Cruise, working on 3D Computer Vision for self-driving cars.
+* [06/2020] <span style="color:red"> **New!** </span> Our recent work, MeshfreeFlowNet, has been selected for publication at [SC20](https://sc20.supercomputing.org/)!
+* [03/2020] Two papers accepted to CVPR 2020! Check out our papers on local implicit grid representations for 3D scenes, and adversarial texture optimization from RGB-D scans.
+* [07/2019] Our recent paper on Deep Differentiable Simplex Layer has been accepted to ICCV 2019 conference!
+* [05/2019] I will be interning in [Machine Perception](https://ai.google/research/teams/perception/) @ [Google Research](https://ai.google/research/) in summer 2019 as a Ph.D research intern.
+* [12/2018] My work on Spherical CNNs on Unstructred Grids has been chosen for an oral presentation at the [AGU](https://fallmeeting.agu.org/2018/) (Americal Geophysics Union).
 * Two of my papers have been accepted to the ICLR 2019 conference!
-* I am interning this summer at the Data Analytics group in NERSC, Lawrence Berkeley National Labratory, working with [Prabhat](http://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) and [Karthik Karshinath](http://www.nersc.gov/about/nersc-staff/data-analytics-services/karthik-kashinath/) on new Deep Learning methodologies for Climate Science.
-* I am invited to visit [Center for Nonlinear Studies](https://cnls.lanl.gov/External/) at Los Alamos National Labratory, and to present my work on 3D deep learning.
-* I made an oral presentation of my work on Aerodynamics Optimization using Deep Learning at [Physics Informed Machine Learning](http://www.cvent.com/events/2nd-physics-informed-machine-learning/event-summary-ae6f3a0d824944d9bfc805f3d66773ee.aspx).
+* [06/2018] I am interning this summer at the Data Analytics group in NERSC, Lawrence Berkeley National Labratory, working with [Prabhat](http://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) and [Karthik Karshinath](http://www.nersc.gov/about/nersc-staff/data-analytics-services/karthik-kashinath/) on new Deep Learning methodologies for Climate Science.
+* [03/2018] I am invited to visit [Center for Nonlinear Studies](https://cnls.lanl.gov/External/) at Los Alamos National Labratory, and to present my work on 3D deep learning.
+* [01/2018] I made an oral presentation of my work on Aerodynamics Optimization using Deep Learning at [Physics Informed Machine Learning](http://www.cvent.com/events/2nd-physics-informed-machine-learning/event-summary-ae6f3a0d824944d9bfc805f3d66773ee.aspx).
 
 ## Experiences
-* [Su 19] <b>Research Intern at Google AI - Perception</b>: <br> Research on deep 3D geometric representation and reconstructions.
+**[Cruise](https://www.getcruise.com/)** \| San Francisco, CA 
 
-* [Su 18] <b>Research Intern at Lawrence Berkeley National Lab</b>: <br>Research on Spherical CNNs on Unstructured Grids and applications towards computer vision and climate science (subsequent publication at ICLR 2019).
+- (06/2020 - Present) **Senior Applied Research Scientist, Computer Vision**
+    - Leading the deployment of the current LiDAR based object detection system on the car, coordinating various cross-team collaborations for runtime optimizations.
+    - Improved the functional and runtime performance of the model, resulting in 138x improvement in point data processing speed.
 
-* [Fa 17] <b>Graduate Student Instructor</b>: <br>([CS294-73](https://inst.eecs.berkeley.edu/~cs294-73/fa17/)): Software Engineering for Scientific Computing.
+**[Google AI](https://ai.google/research/)** \| Mountain View, CA
+
+- (06/2019 - 03/2020) **Research Intern / Student Researcher**
+    - Developed novel learning based implicit 3D geometry representation for large-scale scene reconstruction from point clouds ([Local Implicit Grid](proj/lig) - CVPR 2020).
+    - Collaborated on a project for generating enhanced texture for scanned 3D models ([Adversarial Texture Optimization](http://stanford.edu/~jingweih/papers/advtex/) - CVPR 2020).
+    - Proficient with Google internal infrastructure and TensorFlow for ML development, and Apache Beam for massive data processing and ML inference workflows.
+    - Initiated and coordinated internal and external collaborations with research partners.
+
+**[Lawrence Berekely National Lab](https://www.nersc.gov/)** \| Berkeley, CA
+
+- (05/2018 - 05/2020) **Research Intern / Student Researcher**
+    - Research in physics-informed machine learning for spatial-temporal super-resolution ([MeshfreeFlowNet](proj/meshfreeflownet) - SC 20).
+    - Research on Spherical CNNs on Unstructured Grids and applications towards computer vision and climate science ([Unstructured Grid Spherical CNN](proj/ugscnn) - ICLR 2019).
+    - Mentored and supervised junior researchers and research interns ([Dana Lansigan](http://dlansigan.github.io/), [Eli Jergensen](https://www.linkedin.com/in/gelijergensen/), [Haris Sheikh](https://cfd.me.berkeley.edu/people/haris-moazam-sheikh/))
 
 ## Professional Service
 
-Reviewer [ICCV'19, AAAI'20, CVPR'20, ECCV'20, NeurIPS'20]
+Reviewer for ICCV, AAAI, CVPR, ECCV, NeurIPS, ICLR.
 
 ## Publications
 <table style="width:100%">
+  <tr>
+      <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/shapeflow/shapeflow_teaser.png" width="350"/></center></td>
+      <td width="7%"></td>
+      <td width="75%">ShapeFlow: Learnable Deformations Among 3D Shapes
+        <br>
+        <i>In Submission</i>
+        <br>
+        <font size="2"><b>Chiyu "Max" Jiang*</b>, Jingwei Huang*, Andrea Tagliasacchi, Leonidas Guibas</font><br>
+      <div>
+          <style scoped>
+              .button-xsmall {
+                  font-size: 70%;
+              }
+          </style>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://arxiv.org/abs/2006.07982'">Paper</button>
+      </div>
+
+  </td>
+  </tr>
+  <tr>
+    <td><br></td>
+  </tr>
   <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/meshfreeflownet/teaser.gif" width="350"/></center></td>
     <td width="7%"></td>
     <td width="75%">MeshfreeFlowNet: A Physics-Constrained Deep Continuous Space-Time Super-Resolution Framework
       <br>
-      <i>In submission</i>
+      <i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC20)</i>
       <br>
       <font size="2"><b>Chiyu "Max" Jiang*</b>, Soheil Esmaeilzadeh*, Kamyar Azizzadenesheli, Karthik Kashinath, Mustafa Mustafa, Hamdi Tchelepi, Philip Marcus, Prabhat, Anima Anandkumar</font><br>
     <div>
@@ -57,6 +95,9 @@ Reviewer [ICCV'19, AAAI'20, CVPR'20, ECCV'20, NeurIPS'20]
 </td>
   </tr>
   <tr>
+    <td><br></td>
+  </tr>
+  <tr>
     <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/lig/teaser.png" width="350"/></center></td>
     <td width="7%"></td>
     <td width="75%">Local Implicit Grid Representations for 3D Scenes
@@ -72,7 +113,7 @@ Reviewer [ICCV'19, AAAI'20, CVPR'20, ECCV'20, NeurIPS'20]
         </style>
         <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}{% link _proj/lig.md %}'">Webpage</button>
         <button class="button-xsmall pure-button" onclick="window.location.href='https://arxiv.org/abs/2003.08981'">Paper</button>
-        <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/google-research/google-research/tree/master/local_implicit_grid'">Code</button>
+        <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/local_implicit_grid'">Code</button>
         <button class="button-xsmall pure-button" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2020lig.txt'">Bibtex</button>
         <button class="button-xsmall pure-button" onclick="window.location.href='https://youtu.be/XCyl1-vxfII'">Video</button>
     </div>
