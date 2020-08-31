@@ -33,7 +33,7 @@ I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Ge
 
 **[Google AI](https://ai.google/research/)** \| Mountain View, CA
 
-- (06/2019 - 03/2020) **Research Intern / Student Researcher**
+- (05/2019 - 03/2020) **Research Intern / Student Researcher**
     - Developed novel learning based implicit 3D geometry representation for large-scale scene reconstruction from point clouds ([Local Implicit Grid](proj/lig) - CVPR 2020).
     - Collaborated on a project for generating enhanced texture for scanned 3D models ([Adversarial Texture Optimization](http://stanford.edu/~jingweih/papers/advtex/) - CVPR 2020).
     - Proficient with Google internal infrastructure and TensorFlow for ML development, and Apache Beam for massive data processing and ML inference workflows.
