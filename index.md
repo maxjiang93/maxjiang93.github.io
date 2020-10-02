@@ -28,8 +28,9 @@ I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Ge
 **[Cruise](https://www.getcruise.com/)** \| San Francisco, CA 
 
 - (06/2020 - Present) **Senior Applied Research Scientist, Computer Vision**
-    - Leading the deployment of the current LiDAR based object detection system on the car, coordinating various cross-team collaborations for runtime optimizations.
-    - Improved the functional and runtime performance of the model, resulting in 138x improvement in point data processing speed.
+    - Successfully delivered and deployed a new generation 3D object detection solution, leading to a significant functional and latency improvement, resulting in increased safety of the car.
+    - Led and coordinated cross-team collaboration for deployment and performance optimization.
+    
 
 **[Google AI](https://ai.google/research/)** \| Mountain View, CA
 
@@ -57,7 +58,7 @@ Reviewer for ICCV, AAAI, CVPR, ECCV, NeurIPS, ICLR.
       <td width="7%"></td>
       <td width="75%">ShapeFlow: Learnable Deformations Among 3D Shapes
         <br>
-        <i>In Submission</i>
+        <i>Neural Information Processing Systems (NeurIPS 2020, Spotlight)</i>
         <br>
         <font size="2"><b>Chiyu "Max" Jiang*</b>, Jingwei Huang*, Andrea Tagliasacchi, Leonidas Guibas</font><br>
       <div>
@@ -79,7 +80,7 @@ Reviewer for ICCV, AAAI, CVPR, ECCV, NeurIPS, ICLR.
     <td width="7%"></td>
     <td width="75%">MeshfreeFlowNet: A Physics-Constrained Deep Continuous Space-Time Super-Resolution Framework
       <br>
-      <i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC20)</i>
+      <i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC20, Best Student Paper nomination)</i>
       <br>
       <font size="2"><b>Chiyu "Max" Jiang*</b>, Soheil Esmaeilzadeh*, Kamyar Azizzadenesheli, Karthik Kashinath, Mustafa Mustafa, Hamdi Tchelepi, Philip Marcus, Prabhat, Anima Anandkumar</font><br>
     <div>
