@@ -10,10 +10,13 @@ I am currently a Senior Applied Research Scientst at [Cruise AI](https://www.get
 I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Geometric Deep Learning algorithms, and have first-author publications in top CV/ML conferences (CVPR, ICCV, ICLR). I had the pleasure of collaborating with [Matthias Niessner](https://www.niessnerlab.org/members/matthias_niessner/profile.html) (TUM), [Tom Funkhouser](https://www.cs.princeton.edu/~funk/) (Google), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) (Stanford), [Andrea Tagliasacchi](https://taiya.github.io/) (Google Brain), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (CalTech, NVIDIA) and [Prabhat](https://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) (LBNL), among other amazing researchers in this field. I was advised by [Philip Marcus](https://www.me.berkeley.edu/people/faculty/philip-s-marcus), and I have worked as interns and student researchers at [Google AI](https://ai.google/research/) and [Lawrence Berkeley National Lab](https://www.nersc.gov/).
 
 ## News
-* [06/2020] <span style="color:red"> **New!** </span> I started the position of Senior Applied Research Scientist at Cruise, working on 3D Computer Vision for self-driving cars.
-* [06/2020] <span style="color:red"> **New!** </span> Our recent work, MeshfreeFlowNet, has been selected for publication at [SC20](https://sc20.supercomputing.org/)!
+* [06/2020] <span style="color:red"> **New!** </span> Our recent work, ShapeFlow, has been accepted to NeurIPS 2020 for publication (spotlight).
+* [06/2020] <span style="color:red"> **New!** </span> Our recent work, MeshfreeFlowNet, has been nominated for the *Best Student Paper Award* (pending decision)!
 <details markdown="1"><summary>See More</summary>
 <span>
+* [06/2020] I started the position of Senior Applied Research Scientist at Cruise, working on 3D Computer Vision for self-driving cars.
+* [06/2020] Our recent work, MeshfreeFlowNet, has been selected for publication at [SC20](https://sc20.supercomputing.org/)!
+<details markdown="1"><summary>See More</summary>
 * [03/2020] Two papers accepted to CVPR 2020! Check out our papers on local implicit grid representations for 3D scenes, and adversarial texture optimization from RGB-D scans.
 * [07/2019] Our recent paper on Deep Differentiable Simplex Layer has been accepted to ICCV 2019 conference!
 * [05/2019] I will be interning in [Machine Perception](https://ai.google/research/teams/perception/) @ [Google Research](https://ai.google/research/) in summer 2019 as a Ph.D research intern.
