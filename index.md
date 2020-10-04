@@ -16,7 +16,6 @@ I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Ge
 <span>
 * [06/2020] I started the position of Senior Applied Research Scientist at Cruise, working on 3D Computer Vision for self-driving cars.
 * [06/2020] Our recent work, MeshfreeFlowNet, has been selected for publication at [SC20](https://sc20.supercomputing.org/)!
-<details markdown="1"><summary>See More</summary>
 * [03/2020] Two papers accepted to CVPR 2020! Check out our papers on local implicit grid representations for 3D scenes, and adversarial texture optimization from RGB-D scans.
 * [07/2019] Our recent paper on Deep Differentiable Simplex Layer has been accepted to ICCV 2019 conference!
 * [05/2019] I will be interning in [Machine Perception](https://ai.google/research/teams/perception/) @ [Google Research](https://ai.google/research/) in summer 2019 as a Ph.D research intern.
