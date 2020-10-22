@@ -70,6 +70,7 @@ Reviewer for ICCV, AAAI, CVPR, ECCV, NeurIPS, ICLR.
               }
           </style>
           <button class="button-xsmall pure-button" onclick="window.location.href='https://arxiv.org/abs/2006.07982'">Paper</button>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/maxjiang93/ShapeFlow'">Code</button>
       </div>
 
   </td>
