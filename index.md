@@ -5,13 +5,13 @@ title: Homepage
 ---
 
 ## Bio
-I am currently a Senior Applied Research Scientst at [Cruise AI](https://www.getcruise.com/), where I work on LiDAR-based object detection systems to advance the state of 3D Computer Vision for self-driving cars. 
+I am currently a Research Scientst at [Waymo](https://www.waymo.com/) (formerly the Google self-driving car project), where I work on 3D perception algorithms for self-driving cars. 
 
 I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Geometric Deep Learning algorithms, and have first-author publications in top CV/ML conferences (CVPR, ICCV, NeurIPS, ICLR). I had the pleasure of collaborating with [Matthias Niessner](https://www.niessnerlab.org/members/matthias_niessner/profile.html) (TUM), [Tom Funkhouser](https://www.cs.princeton.edu/~funk/) (Google), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) (Stanford), [Andrea Tagliasacchi](https://taiya.github.io/) (Google Brain), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (CalTech, NVIDIA) and [Prabhat](https://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) (LBNL), among other amazing researchers in this field. I was advised by [Philip Marcus](https://www.me.berkeley.edu/people/faculty/philip-s-marcus), and I have worked as interns and student researchers at [Google AI](https://ai.google/research/) and [Lawrence Berkeley National Lab](https://www.nersc.gov/).
 
 ## News
 * [06/2020] <span style="color:red"> **New!** </span> Our recent work, ShapeFlow, has been accepted to NeurIPS 2020 for publication (spotlight).
-* [06/2020] <span style="color:red"> **New!** </span> Our recent work, MeshfreeFlowNet, has been nominated for the *Best Student Paper Award* (pending decision)!
+* [06/2020] <span style="color:red"> **New!** </span> Our recent work, MeshfreeFlowNet, has been nominated for the *Best Student Paper Award*!
 <details markdown="1"><summary>See More</summary>
 <span>
 * [06/2020] I started the position of Senior Applied Research Scientist at Cruise, working on 3D Computer Vision for self-driving cars.
@@ -27,9 +27,14 @@ I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Ge
 </details>
 
 ## Experiences
+**[Waymo](https://www.waymo.com/)** \| Mountain View, CA
+
+- (01/2021 - Present) **Research Scientist, Waymo Research**
+    - Research in 3D Computer Vision and Perception.
+
 **[Cruise](https://www.getcruise.com/)** \| San Francisco, CA 
 
-- (06/2020 - Present) **Senior Applied Research Scientist, Computer Vision**
+- (06/2020 - 01/2021) **Senior Applied Research Scientist, Computer Vision**
     - Successfully delivered and deployed a new generation 3D object detection solution, leading to a significant functional and latency improvement, resulting in increased safety of the car.
     - Led and coordinated cross-team collaboration for deployment and performance optimization.
     
