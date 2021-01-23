@@ -9,6 +9,10 @@ permalink: /proj/meshfreeflownet
 <a href="https://www.nersc.gov/about/nersc-staff/data-analytics-services/mustafa-mustafa/">Mustafa Mustafa</a> &nbsp; &nbsp; &nbsp;<a href="https://profiles.stanford.edu/hamdi-tchelepi">Hamdi Tchelepi</a>&nbsp; &nbsp; &nbsp;<a href="http://www.me.berkeley.edu/people/faculty/philip-s-marcus">Philip Marcus</a>&nbsp; &nbsp; &nbsp;<a href="http://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/">Prabhat</a>&nbsp; &nbsp; &nbsp;<a href="http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a><br/>(* Denotes Equal Contributions)<br/>
 
 <br>
+
+Published at <i>International Conference for High Performance Computing, Networking, Storage and Analysis (SC20)</i>. Best Student Paper Award Finalist.
+
+<br>
 <a href="https://arxiv.org/pdf/2005.01463.pdf">[Paper]</a>&nbsp;&nbsp;<a href="https://github.com/maxjiang93/space_time_pde">[Code]</a>&nbsp;&nbsp;<a href="#" onclick="window.location.href='{{ site.baseurl }}/assets/bib/jiang2020meshfreeflownet.txt'">[Bibtex]</a>&nbsp;&nbsp;<a href="https://youtu.be/mjqwPch9gDo">[Video]</a>
 <br>
 <br>
