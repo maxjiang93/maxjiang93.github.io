@@ -3,10 +3,29 @@ layout: project
 title: MeshfreeFlowNet
 permalink: /proj/meshfreeflownet
 ---
+<head>
+<style>
+sup {
+    vertical-align: super;
+    font-size: 10px;
+}
+</style>
+</head>
 <center>
 <h1> MeshfreeFlowNet: A Physics-Constrained Deep Continuous Space-Time Super-Resolution Framework </h1>
-<a href="http://www.maxjiang.ml/">Chiyu "Max" Jiang*</a> &nbsp; &nbsp; &nbsp;<a href="https://soheilesm.github.io/">Soheil Esmaeilzadeh*</a> &nbsp; &nbsp; &nbsp;<a href="https://www.cs.purdue.edu/homes/kamyar/">Kamyar Azizzadenesheli</a> &nbsp; &nbsp; &nbsp;<a href="http://www.nersc.gov/about/nersc-staff/data-analytics-services/karthik-kashinath/">Karthik Kashinath</a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.nersc.gov/about/nersc-staff/data-analytics-services/mustafa-mustafa/">Mustafa Mustafa</a> &nbsp; &nbsp; &nbsp;<a href="https://profiles.stanford.edu/hamdi-tchelepi">Hamdi Tchelepi</a>&nbsp; &nbsp; &nbsp;<a href="http://www.me.berkeley.edu/people/faculty/philip-s-marcus">Philip Marcus</a>&nbsp; &nbsp; &nbsp;<a href="http://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/">Prabhat</a>&nbsp; &nbsp; &nbsp;<a href="http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a><br/>(* Denotes Equal Contributions)<br/>
+<a href="http://www.maxjiang.ml/">Chiyu "Max" Jiang*<sup>1</sup></a> &nbsp; &nbsp; &nbsp;<a href="https://soheilesm.github.io/">Soheil Esmaeilzadeh*<sup>2</sup></a> &nbsp; &nbsp; &nbsp;<a href="https://www.cs.purdue.edu/homes/kamyar/">Kamyar Azizzadenesheli<sup>3</sup></a> &nbsp; &nbsp; &nbsp;<br><a href="http://www.nersc.gov/about/nersc-staff/data-analytics-services/karthik-kashinath/">Karthik Kashinath<sup>4</sup></a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.nersc.gov/about/nersc-staff/data-analytics-services/mustafa-mustafa/">Mustafa Mustafa<sup>4</sup></a> &nbsp; &nbsp; &nbsp;<a href="https://profiles.stanford.edu/hamdi-tchelepi">Hamdi Tchelepi<sup>2</sup></a>&nbsp; &nbsp; &nbsp;<a href="http://www.me.berkeley.edu/people/faculty/philip-s-marcus">Philip Marcus<sup>1</sup></a>&nbsp; &nbsp; &nbsp;<a href="http://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/">Prabhat<sup>4</sup></a>&nbsp; &nbsp; &nbsp;<br><a href="http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar<sup>5,6</sup></a><br/>(* Denotes Equal Contributions)<br/>
+
+<sup>1</sup> University of California, Berkeley &nbsp;
+<sup>2</sup> Stanford University &nbsp;
+<sup>3</sup> Purdue University <br>
+<sup>4</sup> Lawrence Berkeley National Lab &nbsp;
+<sup>5</sup> California Institute of Technology &nbsp;
+<sup>6</sup> NVIDIA <br>
+
+<br>
+
+<img src="{{ site.baseurl }}/assets/img/meshfreeflownet/mffn_logo.png" width="750"/>
 
 <br>
 
