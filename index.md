@@ -10,6 +10,7 @@ I am currently a Research Scientst at [Waymo](https://www.waymo.com/) (formerly 
 I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Geometric Deep Learning algorithms, and have first-author publications in top CV/ML conferences (CVPR, ICCV, NeurIPS, ICLR). I had the pleasure of collaborating with [Matthias Niessner](https://www.niessnerlab.org/members/matthias_niessner/profile.html) (TUM), [Tom Funkhouser](https://www.cs.princeton.edu/~funk/) (Google), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) (Stanford), [Andrea Tagliasacchi](https://taiya.github.io/) (Google Brain), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (CalTech, NVIDIA) and [Prabhat](https://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) (LBNL), among other amazing researchers in this field. I was advised by [Philip Marcus](https://www.me.berkeley.edu/people/faculty/philip-s-marcus), and I have worked as interns and student researchers at [Google AI](https://ai.google/research/) and [Lawrence Berkeley National Lab](https://www.nersc.gov/).
 
 ## News
+* [01/2021] I have started at Waymo as a research scientist working on 3D perception research.
 * [06/2020] <span style="color:red"> **New!** </span> Our recent work, ShapeFlow, has been accepted to NeurIPS 2020 for publication (spotlight).
 * [06/2020] <span style="color:red"> **New!** </span> Our recent work, MeshfreeFlowNet, has been nominated for the *Best Student Paper Award*!
 <details markdown="1"><summary>See More</summary>
