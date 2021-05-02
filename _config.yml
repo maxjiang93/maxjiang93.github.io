@@ -42,3 +42,4 @@ version: v1.2.0
 
 include: [_pages, _proj]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "Gemfile", "Gemfile.lock"]
+future: true
