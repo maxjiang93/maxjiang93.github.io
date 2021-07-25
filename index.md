@@ -57,7 +57,7 @@ I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Ge
 
 ## Professional Service
 
-Reviewer for ICCV, AAAI, CVPR, ECCV, NeurIPS, ICLR.
+Reviewer for ICCV, AAAI, CVPR, ECCV, NeurIPS, ICLR, SIGGRAPH.
 
 ## Publications
 <table style="width:100%">
