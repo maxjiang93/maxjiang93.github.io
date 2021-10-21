@@ -5,16 +5,17 @@ title: Homepage
 ---
 
 ## Bio
-I am currently a Research Scientst at [Waymo](https://www.waymo.com/) (formerly the Google self-driving car project), where I work on 3D perception algorithms for self-driving cars. 
+I am currently a Research Scientst at [Waymo](https://www.waymo.com/) (formerly the Google self-driving car project), where I work on 3D perception algorithms for self-driving cars.
 
 I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Geometric Deep Learning algorithms, and have first-author publications in top CV/ML conferences (CVPR, ICCV, NeurIPS, ICLR). I had the pleasure of collaborating with [Matthias Niessner](https://www.niessnerlab.org/members/matthias_niessner/profile.html) (TUM), [Tom Funkhouser](https://www.cs.princeton.edu/~funk/) (Google), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) (Stanford), [Andrea Tagliasacchi](https://taiya.github.io/) (Google Brain), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (CalTech, NVIDIA) and [Prabhat](https://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) (LBNL), among other amazing researchers in this field. I was advised by [Philip Marcus](https://www.me.berkeley.edu/people/faculty/philip-s-marcus), and I have worked as interns and student researchers at [Google AI](https://ai.google/research/) and [Lawrence Berkeley National Lab](https://www.nersc.gov/).
 
 ## News
+* [09/2021] <span style="color:red"> **New!** </span> Our paper, Shape-As-Points, has been accepted to NeurIPS 2021 as an Oral paper!
 * [01/2021] I have started at Waymo as a research scientist working on 3D perception research.
-* [06/2020] <span style="color:red"> **New!** </span> Our recent work, ShapeFlow, has been accepted to NeurIPS 2020 for publication (spotlight).
-* [06/2020] <span style="color:red"> **New!** </span> Our recent work, MeshfreeFlowNet, has been nominated for the *Best Student Paper Award*!
 <details markdown="1"><summary>See More</summary>
 <span>
+* [06/2020] Our recent work, ShapeFlow, has been accepted to NeurIPS 2020 for publication (spotlight).
+* [06/2020] Our recent work, MeshfreeFlowNet, has been nominated for the *Best Student Paper Award*!
 * [06/2020] I started the position of Senior Applied Research Scientist at Cruise, working on 3D Computer Vision for self-driving cars.
 * [06/2020] Our recent work, MeshfreeFlowNet, has been selected for publication at [SC20](https://sc20.supercomputing.org/)!
 * [03/2020] Two papers accepted to CVPR 2020! Check out our papers on local implicit grid representations for 3D scenes, and adversarial texture optimization from RGB-D scans.
@@ -33,12 +34,12 @@ I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Ge
 - (01/2021 - Present) **Research Scientist, Waymo Research**
     - Research in 3D Computer Vision and Perception.
 
-**[Cruise](https://www.getcruise.com/)** \| San Francisco, CA 
+**[Cruise](https://www.getcruise.com/)** \| San Francisco, CA
 
 - (06/2020 - 01/2021) **Senior Applied Research Scientist, Computer Vision**
     - Successfully delivered and deployed a new generation 3D object detection solution, leading to a significant functional and latency improvement, resulting in increased safety of the car.
     - Led and coordinated cross-team collaboration for deployment and performance optimization.
-    
+
 
 **[Google AI](https://ai.google/research/)** \| Mountain View, CA
 
@@ -61,6 +62,29 @@ Reviewer for ICCV, AAAI, CVPR, ECCV, NeurIPS, ICLR, SIGGRAPH.
 
 ## Publications
 <table style="width:100%">
+  <tr>
+      <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/shape-as-points/teaser_wheel.gif" width="350"/></center></td>
+      <td width="7%"></td>
+      <td width="75%">Shape-As-Points: A Differentiable Poisson Solver
+        <br>
+        <i>Neural Information Processing Systems (NeurIPS 2021, Oral)</i>
+        <br>
+        <font size="2">Songyou Peng, <b>Chiyu "Max" Jiang*</b>, Yiyi Liao*, Michael Niemeyer, Marc Pollefeys, Andreas Geiger (* corresponding authors)</font><br>
+      <div>
+          <style scoped>
+              .button-xsmall {
+                  font-size: 70%;
+              }
+          </style>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://arxiv.org/pdf/2106.03452.pdf'">Paper</button>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/autonomousvision/shape_as_points'">Code</button>
+      </div>
+
+  </td>
+  </tr>
+  <tr>
+    <td><br></td>
+  </tr>
   <tr>
       <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/shapeflow/shapeflow_teaser.png" width="350"/></center></td>
       <td width="7%"></td>
