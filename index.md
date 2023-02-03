@@ -5,12 +5,13 @@ title: Homepage
 ---
 
 ## Bio
-I am currently a Research Scientst at [Waymo](https://www.waymo.com/) (formerly the Google self-driving car project), where I work on 3D perception algorithms for self-driving cars.
+I am currently a Research Scientst at [Waymo](https://www.waymo.com/) (formerly the Google self-driving car project), where I work on Machine Learning algorithms for self-driving cars. My research interest is in building foundational generative models that serve the entire self driving stack, from perception, behavior prediction to planning and simulation.
 
-I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Geometric Deep Learning algorithms, and have first-author publications in top CV/ML conferences (CVPR, ICCV, NeurIPS, ICLR). I had the pleasure of collaborating with [Matthias Niessner](https://www.niessnerlab.org/members/matthias_niessner/profile.html) (TUM), [Tom Funkhouser](https://www.cs.princeton.edu/~funk/) (Google), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) (Stanford), [Andrea Tagliasacchi](https://taiya.github.io/) (Google Brain), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (CalTech, NVIDIA) and [Prabhat](https://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) (LBNL), among other amazing researchers in this field. I was advised by [Philip Marcus](https://www.me.berkeley.edu/people/faculty/philip-s-marcus), and I have worked as interns and student researchers at [Google AI](https://ai.google/research/) and [Lawrence Berkeley National Lab](https://www.nersc.gov/).
+I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Geometric Deep Learning algorithms, and have first-author publications in top CV/ML conferences (CVPR, ICCV, NeurIPS, ICLR). During my Ph.D. I had the pleasure of collaborating with [Matthias Niessner](https://www.niessnerlab.org/members/matthias_niessner/profile.html) (TUM), [Tom Funkhouser](https://www.cs.princeton.edu/~funk/) (Google), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) (Stanford), [Andrea Tagliasacchi](https://taiya.github.io/) (Google Brain), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (CalTech, NVIDIA) and [Prabhat](https://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) (LBNL), among other amazing researchers in this field. I was advised by [Philip Marcus](https://www.me.berkeley.edu/people/faculty/philip-s-marcus), and I have worked as interns and student researchers at [Google AI](https://ai.google/research/) and [Lawrence Berkeley National Lab](https://www.nersc.gov/).
 
 ## News
-* [09/2021] <span style="color:red"> **New!** </span> Our paper, Shape-As-Points, has been accepted to NeurIPS 2021 as an Oral paper!
+* [09/2021] <span style="color:red"> **New!** </span> Our paper, Improving the Intra-class Long-tail in 3D Detection via Rare Example Mining, has been accepted to ECCV 2022!
+* [09/2021] Our paper, Shape-As-Points, has been accepted to NeurIPS 2021 as an Oral paper!
 * [01/2021] I have started at Waymo as a research scientist working on 3D perception research.
 <details markdown="1"><summary>See More</summary>
 <span>
@@ -31,8 +32,9 @@ I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Ge
 ## Experiences
 **[Waymo](https://www.waymo.com/)** \| Mountain View, CA
 
-- (01/2021 - Present) **Research Scientist, Waymo Research**
-    - Research in 3D Computer Vision and Perception.
+- (06/2022 - Present) **Senior Research Scientist, Waymo Research**
+- (01/2021 - 06/2022) **Research Scientist, Waymo Research**
+    - Research in Generative Modeling for Autonomous Vehicles.
 
 **[Cruise](https://www.getcruise.com/)** \| San Francisco, CA
 
@@ -62,6 +64,25 @@ Reviewer for ICCV, AAAI, CVPR, ECCV, NeurIPS, ICLR, SIGGRAPH.
 
 ## Publications
 <table style="width:100%">
+  <tr>
+      <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/rem/rem-teaser.png" width="350"/></center></td>
+      <td width="7%"></td>
+      <td width="75%">Improving the Intra-class Long-tail in 3D Detection via Rare Example Mining
+        <br>
+        <i>European Conference on Computer Vision (ECCV, 2022)</i>
+        <br>
+        <font size="2"><b>Chiyu "Max" Jiang</b>, Mahyar Najibi, Charles R. Qi, Yin Zhou, Dragomir Anguelov</font><br>
+      <div>
+          <style scoped>
+              .button-xsmall {
+                  font-size: 70%;
+              }
+          </style>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700155.pdf'">Paper</button>
+      </div>
+
+  </td>
+  </tr>
   <tr>
       <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/shape-as-points/teaser_wheel.gif" width="350"/></center></td>
       <td width="7%"></td>

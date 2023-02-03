@@ -1,7 +1,7 @@
 title: Chiyu Max Jiang
 email: maxjiang93@gmail.com
-description: Research Scientist, Waymo Research. 3D Deep Learning | Computer Vision | Self-driving Cars. # this means to ignore newlines until "baseurl:"
-keywords: 3D Deep Learning, 3D Computer Vision, Scientific Computing
+description: Senior Research Scientist, Waymo Research </br> Generative Modeling for Self-driving Cars # this means to ignore newlines until "baseurl:"
+keywords: Generative Modeling for Self-driving Cars, 3D Deep Learning, 3D Computer Vision
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: "Chiyu 'Max' Jiang (蒋驰宇)" # add your name
 author-pic: max_profile_pic_sq.JPG
-about-author: Research Scientist, Waymo Research </br> 3D Deep Learning | Computer Vision | Self-driving Cars
+about-author: Senior Research Scientist, Waymo Research </br> Generative Modeling for Self-driving Cars
 
 # Contact links
 email: maxjiang93@gmail.com # Add your Email address
@@ -37,7 +37,7 @@ gems:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
-  
+
 version: v1.2.0
 
 include: [_pages, _proj]
