@@ -84,6 +84,9 @@ Reviewer for ICCV, AAAI, CVPR, ECCV, NeurIPS, ICLR, SIGGRAPH.
   </td>
   </tr>
   <tr>
+    <td><br></td>
+  </tr>
+  <tr>
       <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/shape-as-points/teaser_wheel.gif" width="350"/></center></td>
       <td width="7%"></td>
       <td width="75%">Shape-As-Points: A Differentiable Poisson Solver
