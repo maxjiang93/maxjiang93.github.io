@@ -65,6 +65,75 @@ Reviewer for ICCV, AAAI, CVPR, ECCV, NeurIPS, ICLR, SIGGRAPH.
 ## Publications
 <table style="width:100%">
   <tr>
+      <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/motiondiffuser.gif" width="350"/></center></td>
+      <td width="7%"></td>
+      <td width="75%">MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion
+        <br>
+        <i>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023, Highlight, 2.6% acceptance rate)</i>
+        <br>
+        <font size="2"><b>Chiyu "Max" Jiang*</b>, Andre Cornman*, Cheolho Park, Ben Sapp, Yin Zhou, Dragomir Anguelov (*equal contributions)</font><br>
+      <div>
+          <style scoped>
+              .button-xsmall {
+                  font-size: 70%;
+              }
+          </style>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf'">Paper</button>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://waymo.com/research/motiondiffuser-controllable-multi-agent-motion-prediction-using-diffusion/'">Webpage</button>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://youtu.be/IfGTZwm1abg'">Video</button>
+      </div>
+  </td>
+  </tr>
+  <tr>
+    <td><br></td>
+  </tr>
+  <tr>
+      <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/openscene_teaser.gif" width="350"/></center></td>
+      <td width="7%"></td>
+      <td width="75%">OpenScene: 3D Scene Understanding with Open Vocabularies
+        <br>
+        <i>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023)</i>
+        <br>
+        <font size="2">Songyou Peng, Kyle Genova, <b>Chiyu "Max" Jiang</b>, Andrea Tagliasacchi, Marc Pollefeys, Thomas Funkhouser</font><br>
+      <div>
+          <style scoped>
+              .button-xsmall {
+                  font-size: 70%;
+              }
+          </style>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://arxiv.org/abs/2211.15654'">Paper</button>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://pengsongyou.github.io/openscene'">Webpage</button>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://www.youtube.com/watch?v=jZxCLHyDJf8'">Video</button>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://github.com/pengsongyou/openscene'">Code</button>
+      </div>
+  </td>
+  </tr>
+  <tr>
+    <td><br></td>
+  </tr>
+  <tr>
+      <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/nerdi_teaser.png" width="350"/></center></td>
+      <td width="7%"></td>
+      <td width="75%">NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors
+        <br>
+        <i>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023)</i>
+        <br>
+        <font size="2">Congyue Deng, <b>Chiyu "Max" Jiang</b>, Charles R. Qi, Xinchen Yan, Yin Zhou, Leonidas Guibas, Dragomir Anguelov</font><br>
+      <div>
+          <style scoped>
+              .button-xsmall {
+                  font-size: 70%;
+              }
+          </style>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://openaccess.thecvf.com/content/CVPR2023/papers/Deng_NeRDi_Single-View_NeRF_Synthesis_With_Language-Guided_Diffusion_As_General_Image_CVPR_2023_paper.pdf'">Paper</button>
+          <button class="button-xsmall pure-button" onclick="window.location.href='https://waymo.com/research/nerdi-single-view-nerf-synthesis-with-language-guided-diffusion-as-general/'">Webpage</button>
+      </div>
+  </td>
+  </tr>
+  <tr>
+    <td><br></td>
+  </tr>
+  <tr>
       <td width="18%"><center><img src="{{ site.baseurl }}/assets/img/rem/rem-teaser.png" width="350"/></center></td>
       <td width="7%"></td>
       <td width="75%">Improving the Intra-class Long-tail in 3D Detection via Rare Example Mining
