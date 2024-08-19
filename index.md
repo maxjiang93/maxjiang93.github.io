@@ -5,7 +5,7 @@ title: Homepage
 ---
 
 ## Bio
-I am currently a Research Scientst at [Waymo](https://www.waymo.com/) (formerly the Google self-driving car project), where I work on Machine Learning algorithms for self-driving cars. My research interest is in building foundational generative models that serve the entire self driving stack, from perception, behavior prediction to planning and simulation.
+I am currently a TLM/Staff Research Scientst at [Waymo](https://www.waymo.com/) (formerly the Google self-driving car project), where I work on Machine Learning algorithms for autonomous vehicles. My research interest is in building foundational generative models that serve the entire self driving stack, from perception, behavior prediction to planning and simulation.
 
 I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Geometric Deep Learning algorithms, and have first-author publications in top CV/ML conferences (CVPR, ICCV, NeurIPS, ICLR). During my Ph.D. I had the pleasure of collaborating with [Matthias Niessner](https://www.niessnerlab.org/members/matthias_niessner/profile.html) (TUM), [Tom Funkhouser](https://www.cs.princeton.edu/~funk/) (Google), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) (Stanford), [Andrea Tagliasacchi](https://taiya.github.io/) (Google Brain), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) (CalTech, NVIDIA) and [Prabhat](https://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) (LBNL), among other amazing researchers in this field. I was advised by [Philip Marcus](https://www.me.berkeley.edu/people/faculty/philip-s-marcus), and I have worked as interns and student researchers at [Google AI](https://ai.google/research/) and [Lawrence Berkeley National Lab](https://www.nersc.gov/).
 
@@ -33,9 +33,8 @@ I received a Ph.D. from UC Berkeley in 2020. I worked on 3D Computer Vision / Ge
 ## Experiences
 **[Waymo](https://www.waymo.com/)** \| Mountain View, CA
 
-- (06/2022 - Present) **Senior Research Scientist, Waymo Research**
-- (01/2021 - 06/2022) **Research Scientist, Waymo Research**
-    - Research in Generative Modeling for Autonomous Vehicles.
+- (01/2011 - Present) **Tech Lead Manager / Staff Research Scientist, Waymo Research**
+    - Generative Models for Autonomous Vehicles (Perception, Prediction, Planning, Simulation).
 
 **[Cruise](https://www.getcruise.com/)** \| San Francisco, CA
 
